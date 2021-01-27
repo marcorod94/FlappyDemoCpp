@@ -12,23 +12,24 @@ In order to play the game you just need the following:
 <br/>
 
 ## Media
-
-<table>
-    <tr>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/menu.png" width="200" alt=""/>
-            <br/>
-        </td>
-         <td align="center" colspan="3" style="border: 0px">
-            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/demo.gif" width="200" alt=""/>
-            <br/>
-        </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/gameOver.png" width="200" alt=""/>
-            <br/>
-        </td>
-    </tr>
-</table>
+<p align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/menu.png" width="200" alt=""/>
+                <br/>
+            </td>
+            <td align="center" colspan="3" style="border: 0px">
+                <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/demo.gif" width="200" alt=""/>
+                <br/>
+            </td>
+            <td align="center">
+                <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/gameOver.png" width="200" alt=""/>
+                <br/>
+            </td>
+        </tr>
+    </table>
+<p>
 
 <br/>
 
