@@ -15,17 +15,17 @@ In order to play the game you just need the following:
 <table>
     <tr>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/menu.png" style="width:33vw" alt=""/>
+            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/menu.png" width="200" alt=""/>
             <br/>
         </td>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/gameOver.png" style="width:33vw" alt=""/>
+            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/gameOver.png" width="200" alt=""/>
             <br/>
         </td>
     </tr>
     <tr>
         <td align="center" colspan="3" style="border: 0px">
-            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/demo.gif" style="width:33vw" alt=""/>
+            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/demo.gif" width="200" alt=""/>
             <br/>
         </td>
     </tr>
@@ -38,7 +38,7 @@ In order to play the game you just need the following:
 <div>
     <div style="margin-left: 40%; width: 50%;">
         <a href="https://github.com/marcorod94">
-            <img src="https://avatars2.githubusercontent.com/u/29025282?v=4" style="width:100px; border-radius: 50%;" alt=""/>
+            <img src="https://avatars2.githubusercontent.com/u/29025282?v=4" width="150" alt=""/>
             <br/>
             <sub>
                 <b>Marco Rodríguez</b>
