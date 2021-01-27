@@ -12,20 +12,19 @@ In order to play the game you just need the following:
 <br/>
 
 ## Media
+
 <table>
     <tr>
         <td align="center">
             <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/menu.png" width="200" alt=""/>
             <br/>
         </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/gameOver.png" width="200" alt=""/>
+         <td align="center" colspan="3" style="border: 0px">
+            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/demo.gif" width="200" alt=""/>
             <br/>
         </td>
-    </tr>
-    <tr>
-        <td align="center" colspan="3" style="border: 0px">
-            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/demo.gif" width="200" alt=""/>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/gameOver.png" width="200" alt=""/>
             <br/>
         </td>
     </tr>
@@ -35,17 +34,15 @@ In order to play the game you just need the following:
 
 ## Author
 <br/>
-<div>
-    <div style="margin-left: 40%; width: 50%;">
-        <a href="https://github.com/marcorod94">
-            <img src="https://avatars2.githubusercontent.com/u/29025282?v=4" width="150" alt=""/>
-            <br/>
-            <sub>
-                <b>Marco Rodríguez</b>
-            </sub>
-        </a>
-    </div>
-</div>
+<p align="center">
+  <a href="https://github.com/marcorod94">
+        <img src="https://avatars2.githubusercontent.com/u/29025282?v=4" width="150" alt=""/>
+        <br/>
+        <sub>
+            <b>Marco Rodríguez</b>
+        </sub>
+    </a>
+</p>
 <br/>
 I’m an enthusiastic developer from Ecuador.
 Since I can remember I have always enjoyed playing video games in my spare time and this led me to pursue a career in the video game Industry.
