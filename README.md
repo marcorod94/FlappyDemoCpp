@@ -15,30 +15,18 @@ In order to play the game you just need the following:
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/marcorod94">
-                <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/media/menu.png" style="width:33vw" alt=""/>
-                <br/>
-            </a>
+            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/menu.png" style="width:33vw" alt=""/>
+            <br/>
         </td>
         <td align="center">
-            <a href="https://github.com/marcorod94">
-                <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/media/demo.gif" style="width:33vw" alt=""/>
-                <br/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/marcorod94">
-                <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/media/demo.gif" style="width:33vw" alt=""/>
-                <br/>
-            </a>
+            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/gameOver.png" style="width:33vw" alt=""/>
+            <br/>
         </td>
     </tr>
     <tr>
         <td align="center" colspan="3" style="border: 0px">
-            <a href="https://github.com/marcorod94">
-                <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/media/demo.gif" style="width:33vw" alt=""/>
-                <br/>
-            </a>
+            <img src="https://raw.githubusercontent.com/marcorod94/FlappyDemoCpp/master/Media/demo.gif" style="width:33vw" alt=""/>
+            <br/>
         </td>
     </tr>
 </table>
@@ -47,14 +35,16 @@ In order to play the game you just need the following:
 
 ## Author
 <br/>
-<div style="margin-left: 40%; width: 50%;">
-    <a href="https://github.com/marcorod94">
-        <img src="https://avatars2.githubusercontent.com/u/29025282?v=4" style="width:100px; border-radius: 50%;" alt=""/>
-        <br/>
-        <sub>
-            <b>Marco Rodríguez</b>
-        </sub>
-    </a>
+<div>
+    <div style="margin-left: 40%; width: 50%;">
+        <a href="https://github.com/marcorod94">
+            <img src="https://avatars2.githubusercontent.com/u/29025282?v=4" style="width:100px; border-radius: 50%;" alt=""/>
+            <br/>
+            <sub>
+                <b>Marco Rodríguez</b>
+            </sub>
+        </a>
+    </div>
 </div>
 <br/>
 I’m an enthusiastic developer from Ecuador.
